@@ -10,14 +10,14 @@ Device to retrieve data from the Keg Plate designed on the other side of diyhome
 - Complete article with all the steps:
 https://diyhomebrewers.com/2026/03/plaatokeghub-libera-tu-plaato-keg.html
 
-Algunas fotos del firmware:
+Some photos of the firmware:
 <img width="1580" height="900" alt="platokeghub_captura1" src="https://github.com/user-attachments/assets/f627d650-b580-4475-a878-e0b429fea6ea" />
 
 ![4](https://github.com/user-attachments/assets/ada660b6-c18d-46f9-80de-0221c343d12e)
 
 ![5](https://github.com/user-attachments/assets/c77e1d46-c398-46a7-a7db-597554f9a266)
 
-Integraciones como DiyHomebrewers CLOUD y Brewfather:
+Integrations like DIYHomebrewers CLOUD and Brewfather:
 ![3](https://github.com/user-attachments/assets/9f9beda3-e08d-47d4-ac11-1331b72968b1)
 
 ![1webp](https://github.com/user-attachments/assets/93216667-534e-4997-81b1-2ee71e19a8e1)
